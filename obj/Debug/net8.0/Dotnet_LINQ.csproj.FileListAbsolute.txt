@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Dotnet_LINQ\obj\Debug\net8.0\Dotnet_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Dotnet_LINQ\obj\Debug\net8.0\Dotnet_LINQ.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Dotnet_LINQ\obj\Debug\net8.0\Dotnet_LINQ.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Dotnet_LINQ\obj\Debug\net8.0\Dotnet_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Dotnet_LINQ\bin\Debug\net8.0\Dotnet_LINQ.exe
+C:\Users\DELL\Desktop\Dotnet_LINQ\bin\Debug\net8.0\Dotnet_LINQ.deps.json
+C:\Users\DELL\Desktop\Dotnet_LINQ\bin\Debug\net8.0\Dotnet_LINQ.runtimeconfig.json
+C:\Users\DELL\Desktop\Dotnet_LINQ\bin\Debug\net8.0\Dotnet_LINQ.dll
+C:\Users\DELL\Desktop\Dotnet_LINQ\bin\Debug\net8.0\Dotnet_LINQ.pdb
+C:\Users\DELL\Desktop\Dotnet_LINQ\obj\Debug\net8.0\Dotnet_LINQ.dll
+C:\Users\DELL\Desktop\Dotnet_LINQ\obj\Debug\net8.0\refint\Dotnet_LINQ.dll
+C:\Users\DELL\Desktop\Dotnet_LINQ\obj\Debug\net8.0\Dotnet_LINQ.pdb
+C:\Users\DELL\Desktop\Dotnet_LINQ\obj\Debug\net8.0\Dotnet_LINQ.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Dotnet_LINQ\obj\Debug\net8.0\ref\Dotnet_LINQ.dll
